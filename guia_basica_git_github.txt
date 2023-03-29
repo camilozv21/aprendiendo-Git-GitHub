@@ -1,0 +1,31 @@
+Comandos paso a paso para crear un repositorio local
+
+git init
+
+git config user.name "nombreusuario" (usar --global despues de config)
+
+git config user.email email@aja.com (usar --global despues de config)
+
+git remote add origin http://kajsd.git (apunta al repositorio remoto)
+
+
+Comandos paso a paso para subir cambios
+
+git add .
+
+git commit -m "mensaje descriptivo"
+
+git push origin master (envia los cambios al repositorio remoto)
+
+git status
+
+
+Otros comandos
+
+git pull origin master (descarga todos los cambios de repositorio, util cuando hay conflictos)
+
+git remote -v (testeo si esta apuntando al repo correcto
+
+Paso a paso para crear un repositorio desde github
+
+git clone linkdelrepo.git
