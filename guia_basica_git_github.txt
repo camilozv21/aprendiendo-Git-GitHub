@@ -29,3 +29,38 @@ git remote -v (testeo si esta apuntando al repo correcto
 Paso a paso para crear un repositorio desde github
 
 git clone linkdelrepo.git
+
+Paso a paso para crear ramas
+
+git branch (regresa las ramas del proyecto)
+
+git branch NombreRama (crear una rama)
+
+git checkout NombreRama (se mueve a una rama)
+
+git add .
+
+git commit -m "comentarios
+
+git push origin NombreRama (sube a la rama)
+
+se debe de hacer un merge
+
+nos pasamos a la rama que queremos hacer el merge
+
+git checkout master
+
+git merge NombreRama
+
+git push origin master
+
+
+
+
+
+
+
+
+
+
+
