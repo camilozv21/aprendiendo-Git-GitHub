@@ -1,8 +1,25 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="200">
-    <h1 align="center">Hello 👋, I'm Juan Camilo Zapata Velez. Thanks for visiting my profile!</h1>
+    <h1 align="center">Hello <img src="https://media.giphy.com/media/pbOVplMQUrJw5gEHOk/giphy.gif" width="20"/>, I'm Juan Camilo Zapata Velez. Thanks for visiting my profile!</h1>
     <h3 align="center">A passionate web fullstack developer from Colombia. I like teaching what I learn with my co-workers</h3>
 </div>
+
+
+
+---
+
+### 🧑‍💻 About me : 
+- 🦸 I'm currently working as a teaching assistant at ITM, but my aspiration is to work in a software development company.
+
+- 🧙 I'm currently learning/doing a FullStack development course at Digital House Academy.
+
+- 🛒 My dream is to work at MELI as a developer.
+
+- 💬 Ask me about my profession, my work experience, or other programming languages I know.
+
+- 📫 You can contact me through my LinkedIn profile.
+
+- 🐒 Fun fact: Unlike some programmers, I love programming as a hobby more than as a job. It's an activity that I enjoy doing.
 
 
 
