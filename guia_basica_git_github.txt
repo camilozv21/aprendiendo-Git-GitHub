@@ -9,6 +9,16 @@ git config user.email email@aja.com (usar --global despues de config)
 git remote add origin http://kajsd.git (apunta al repositorio remoto)
 
 
+Comando paso a paso para clonar un repositorio
+
+Crear una carpeta en donde se clonará la carpeta
+
+git clone nombre_repositorio.git
+
+cd nombre_repositorio
+
+git remote -v # Sirve para verificar si está vinculado el repositorio
+
 Comandos paso a paso para subir cambios
 
 git add .
